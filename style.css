@@ -296,7 +296,7 @@ body{
 /* <!-- blog section details --> */
 
 .blog-section-details{
-    margin-left: 50px;
+    margin-left: 60px;
     margin-bottom: 100px ;
 }
 
@@ -343,4 +343,13 @@ body{
     margin-left: 260px;
     margin-top: 50px;
     border-radius: 9px;
+}
+
+footer{
+    position: relative ;
+    background-color: black;
+    height: 177px;
+    padding-top: 100px;
+    text-align: center;
+    color: #D9D9D9;
 }
